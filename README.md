@@ -17,20 +17,25 @@ Welcome to the Trip Planning Website repository! This project is a web applicati
 - **Contact Us:** Reach out to us using the contact form with email functionality for inquiries and feedback.
 
 **Landing Page: **
-![3 web](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/6de2472f-64c0-40ba-b7d4-70068ba26f48)
+![3 web](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/ef9a9d78-61da-4026-a657-f51527328f01)
+
 
 **User Registration **
 
-![4 web](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/8b158665-f184-4c60-bffc-45fffe61d421)
+![4 web](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/f4b30116-e569-4efb-9c7b-983654edfc34)
+
 
 **Home Page **
+
 ![web h2](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/e7f30301-8ace-43fa-8921-6c8ce0804246)
 
 
 **About page **
+
 ![2web](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/8ff65964-3776-4529-b470-80e9e2fbd77c)
 
 **One of Tour Explain Page **
+
 ![web1](https://github.com/Indula-Perera/Travel-Website--Road-Trip-Srilanka/assets/105506303/64e75a5f-e4a6-4b15-b75e-6655c1498c6b)
 
 ## Technologies Used
